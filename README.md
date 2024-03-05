@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Any Python Project**
 
-- 👨‍💻 All of my projects are available at [github.io/SaiNeerajGunturu](github.io/SaiNeerajGunturu)
+- 👨‍💻 All of my projects are available at [github.com/SaiNeerajGunturu](github.com/SaiNeerajGunturu)
 
 - 📝 I regularly write articles on [Python,html,css](Python,html,css)
 
